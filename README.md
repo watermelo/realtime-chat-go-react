@@ -2,7 +2,7 @@
 
 [使用 Go 和 ReactJS 构建聊天应用系列教程](https://tutorialedge.net/projects/chat-system-in-go-and-react/)
 
-每一个分支都是对应章节的代码，例如 part-6 是第六节的代码。
+每一个分支都是对应章节的代码，例如分支 [part-6](https://github.com/watermelo/realtime-chat-go-react/tree/part-1-and-2) 是第六节的代码。
 
 ## 后端
 ```shell
